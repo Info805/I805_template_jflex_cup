@@ -33,4 +33,4 @@
 *.iws
 # IntelliJ SonarLint plugin
 .idea/sonarlint/
-
+.idea/sonarlint.xml
